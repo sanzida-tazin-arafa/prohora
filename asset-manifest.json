@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/prohora/static/css/main.bc1d315b.css",
+    "main.js": "/prohora/static/js/main.ece67e3d.js",
+    "static/js/453.c8f0fec9.chunk.js": "/prohora/static/js/453.c8f0fec9.chunk.js",
+    "static/media/homeBG.png": "/prohora/static/media/homeBG.f20c52467d1df7dce2b2.png",
+    "static/media/alertingImg.png": "/prohora/static/media/alertingImg.cbb1ca6e685328577320.png",
+    "static/media/logoProhora.png": "/prohora/static/media/logoProhora.681d2fcb82667b7efa47.png",
+    "static/media/map2.png": "/prohora/static/media/map2.edc68c3ba62542825c68.png",
+    "static/media/gEImageM.png": "/prohora/static/media/gEImageM.6544c4179d758e98eaf2.png",
+    "static/media/logoTHydro.png": "/prohora/static/media/logoTHydro.e85d2b90c700b01abdc5.png",
+    "index.html": "/prohora/index.html",
+    "main.bc1d315b.css.map": "/prohora/static/css/main.bc1d315b.css.map",
+    "main.ece67e3d.js.map": "/prohora/static/js/main.ece67e3d.js.map",
+    "453.c8f0fec9.chunk.js.map": "/prohora/static/js/453.c8f0fec9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc1d315b.css",
+    "static/js/main.ece67e3d.js"
+  ]
+}
