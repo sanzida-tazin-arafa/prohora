@@ -1,19 +1,22 @@
 import React from 'react'
-import { HashRouter as Router, Routes, Route, Outlet,Link } from 'react-router-dom';
-import './HomeMCSS.css';
-import './homeBG.png';
-import Navbar from './Navbar.jsx';
-import Footer from './Footer.jsx'
+import Hero from './Hero/Hero'
+import Creators from './Creators/Creators'
+import Title from './Title/Title'
+import About from './About/About'
 
-
-
-export default function HomeM() {
+const HomeM = () => {
   return (
-    <div >
-      <div className='homeBody' >
-        
+    <div>
+
+      <Hero />
+      <div className='container'>
+        <About />
+        <Title title='PROHORA' subtitle='creators' />
+        <Creators />
+
       </div>
-      
     </div>
   )
 }
+
+export default HomeM

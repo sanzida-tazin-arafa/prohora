@@ -2,8 +2,7 @@ import React from 'react'
 import { HashRouter as Router, Routes, Route, Outlet,Link } from 'react-router-dom';
 import  AlertingImg from './alertingImg.png'
 import Map2 from '../images/map2.png'
-import Navbar from './Navbar.jsx'
-import Footer from './Footer.jsx'
+
 
 export default function Alert() {
   return (
